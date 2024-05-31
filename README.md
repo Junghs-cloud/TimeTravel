@@ -17,21 +17,10 @@
 
 ## 게임 화면
 
-<div align=center>
-    
-### 메인 화면
-<img src="https://github.com/Junghs-cloud/TimeTravel/assets/77110178/b7ce3b18-e776-4515-8d92-054635ceb0d9" width="533" height="300">
+| 메인 화면 | 룸 화면 | 문제 풀이 화면 | 게임 종료 화면 |
+|---|---|---|---|
+|<img src="https://github.com/Junghs-cloud/TimeTravel/assets/77110178/b7ce3b18-e776-4515-8d92-054635ceb0d9" width="533" height="300">|<img src="https://github.com/Junghs-cloud/TimeTravel/assets/77110178/db26947b-aac1-4815-9d93-c4c4380f52ef" width="533" height="300">|<img src="https://github.com/Junghs-cloud/TimeTravel/assets/77110178/bfcda24d-4db9-45d4-afd2-c08f20a52430" width="533" height="300">|<img src="https://github.com/Junghs-cloud/TimeTravel/assets/77110178/56bae07b-ab94-4627-971d-d6faf79e6aa8" width="533" height="300">|
 
-### 룸 화면
-<img src="https://github.com/Junghs-cloud/TimeTravel/assets/77110178/db26947b-aac1-4815-9d93-c4c4380f52ef" width="533" height="300">
-
-### 문제 풀이 화면
-<img src="https://github.com/Junghs-cloud/TimeTravel/assets/77110178/bfcda24d-4db9-45d4-afd2-c08f20a52430" width="533" height="300">
-
-### 게임 종료 화면
-<img src="https://github.com/Junghs-cloud/TimeTravel/assets/77110178/56bae07b-ab94-4627-971d-d6faf79e6aa8" width="533" height="300">
-
-</div>
 
 ## 게임 설명
 - 2인에서 4인까지 플레이 가능한 멀티플레이 보드 게임입니다. 플레이어들은 1부터 100까지 채워진 보드 판을 주사위를 굴리며 한국사 문제를 풀며 도착 지점까지 나아가야 합니다.
